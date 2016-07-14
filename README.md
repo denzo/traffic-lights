@@ -22,5 +22,5 @@ You will need the following things properly installed on your computer.
 
 ## Running Tests
 
-* Visit Visit your app at [traffic-brain-test.js](https://github.com/denzo/traffic-lights/blob/master/tests/unit/services/traffic-brain-test.js)
-* File with tests is here  
+* Visit Visit your app at [http://localhost:4200/tests](http://localhost:4200/tests) 
+* File with tests is here [traffic-brain-test.js](https://github.com/denzo/traffic-lights/blob/master/tests/unit/services/traffic-brain-test.js)
